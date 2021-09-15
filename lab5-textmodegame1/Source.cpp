@@ -22,7 +22,6 @@ void erase_ship(int x, int y)
 
 int main()
 {
-	//gotoxy(38, 20);
 	int x = 38, y = 20;
 	draw_ship(x, y);
 	char ch = ' ';
